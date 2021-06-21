@@ -1,0 +1,36 @@
+.item-list {
+  width: 30rem;
+  max-width: 80%;
+  margin: auto;
+}
+
+.item-list h2 {
+  border-bottom: 3px solid;
+  padding-bottom: 1rem;
+  color: white;
+}
+
+.item-list ul {
+  list-style: none;
+  padding: 0;
+  max-height: 15rem;
+  overflow: auto;
+}
+
+.item-list li {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  box-shadow: 0 1px 4px white;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+.comp-item {
+  color: red;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
