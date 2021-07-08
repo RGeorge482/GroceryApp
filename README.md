@@ -1,4 +1,5 @@
 This is an  App where the user can add their favorite grocery items adding the name and quantity. They have the option to search for a product by using the “Filter by name” input field. In the end, if they wish they can delete the product by using the delete button. This app is built in React and deployed using Firebase.
+Here you can acces the web page https://grocery-app-c1b0e.web.app/
 
 ![gr1](https://user-images.githubusercontent.com/69143183/122829888-78bb1a80-d2df-11eb-9d4a-0dd343def3b3.jpg)
 ![gr2](https://user-images.githubusercontent.com/69143183/122829902-7f499200-d2df-11eb-9c77-fb0fc8171d33.jpg)
